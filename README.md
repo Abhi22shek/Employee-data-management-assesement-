@@ -1,3 +1,6 @@
+
+Explanation video link [https://drive.google.com/file/d/1LhSm637oxOyxDi5DPu0Xe1RgUjmi4s_2/view?usp=sharing]
+
 # Employee Management System
 
 A full-stack web application for managing employee records with a modern, responsive interface. Built with React, Node.js, Express, and MongoDB.
